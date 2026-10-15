@@ -1,0 +1,492 @@
+[
+ {
+  "city": "Dallas",
+  "p": 0.935,
+  "state_ablated": 0.0033,
+  "n_city_feats": 248,
+  "all_city": 0.0007,
+  "all_city_top1": " located",
+  "city_lt20": 0.0007,
+  "city_lt20_top1": " located"
+ },
+ {
+  "city": "Houston",
+  "p": 0.9914,
+  "state_ablated": 0.0033,
+  "n_city_feats": 248,
+  "all_city": 0.1002,
+  "all_city_top1": " in",
+  "city_lt20": 0.1222,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "San Antonio",
+  "p": 0.9607,
+  "state_ablated": 0.0018,
+  "n_city_feats": 420,
+  "all_city": 0.0108,
+  "all_city_top1": " located",
+  "city_lt20": 0.011,
+  "city_lt20_top1": " located"
+ },
+ {
+  "city": "Los Angeles",
+  "p": 0.9955,
+  "state_ablated": 0.2084,
+  "n_city_feats": 164,
+  "all_city": 0.0084,
+  "all_city_top1": " Austin",
+  "city_lt20": 0.0092,
+  "city_lt20_top1": " Atlanta"
+ },
+ {
+  "city": "San Francisco",
+  "p": 0.9904,
+  "state_ablated": 0.7235,
+  "n_city_feats": 224,
+  "all_city": 0.0091,
+  "all_city_top1": " Atlanta",
+  "city_lt20": 0.0086,
+  "city_lt20_top1": " Atlanta"
+ },
+ {
+  "city": "Miami",
+  "p": 0.9618,
+  "state_ablated": 0.0002,
+  "n_city_feats": 207,
+  "all_city": 0.0274,
+  "all_city_top1": " in",
+  "city_lt20": 0.029,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Tampa",
+  "p": 0.9307,
+  "state_ablated": 0.0001,
+  "n_city_feats": 316,
+  "all_city": 0.0007,
+  "all_city_top1": " located",
+  "city_lt20": 0.0009,
+  "city_lt20_top1": " located"
+ },
+ {
+  "city": "Chicago",
+  "p": 0.8428,
+  "state_ablated": 0.0018,
+  "n_city_feats": 160,
+  "all_city": 0.0032,
+  "all_city_top1": " Washington",
+  "city_lt20": 0.0036,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Philadelphia",
+  "p": 0.9212,
+  "state_ablated": 0.0002,
+  "n_city_feats": 217,
+  "all_city": 0.0002,
+  "all_city_top1": " not",
+  "city_lt20": 0.0002,
+  "city_lt20_top1": " not"
+ },
+ {
+  "city": "Pittsburgh",
+  "p": 0.909,
+  "state_ablated": 0.1245,
+  "n_city_feats": 297,
+  "all_city": 0.0025,
+  "all_city_top1": " in",
+  "city_lt20": 0.0041,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Seattle",
+  "p": 0.9973,
+  "state_ablated": 0.9954,
+  "n_city_feats": 186,
+  "all_city": 0.0144,
+  "all_city_top1": " in",
+  "city_lt20": 0.0121,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Spokane",
+  "p": 0.6534,
+  "state_ablated": 0.3086,
+  "n_city_feats": 320,
+  "all_city": 0.0282,
+  "all_city_top1": " Salt",
+  "city_lt20": 0.0181,
+  "city_lt20_top1": " Seattle"
+ },
+ {
+  "city": "Eugene",
+  "p": 0.9732,
+  "state_ablated": 0.8563,
+  "n_city_feats": 400,
+  "all_city": 0.0009,
+  "all_city_top1": " located",
+  "city_lt20": 0.001,
+  "city_lt20_top1": " located"
+ },
+ {
+  "city": "Detroit",
+  "p": 0.9699,
+  "state_ablated": 0.0021,
+  "n_city_feats": 321,
+  "all_city": 0.0001,
+  "all_city_top1": " ",
+  "city_lt20": 0.0001,
+  "city_lt20_top1": " not"
+ },
+ {
+  "city": "Cleveland",
+  "p": 0.975,
+  "state_ablated": 0.9885,
+  "n_city_feats": 299,
+  "all_city": 0.0,
+  "all_city_top1": " W",
+  "city_lt20": 0.0,
+  "city_lt20_top1": " W"
+ },
+ {
+  "city": "Cincinnati",
+  "p": 0.8996,
+  "state_ablated": 0.2048,
+  "n_city_feats": 323,
+  "all_city": 0.005,
+  "all_city_top1": " in",
+  "city_lt20": 0.0055,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Savannah",
+  "p": 0.9888,
+  "state_ablated": 0.2438,
+  "n_city_feats": 328,
+  "all_city": 0.0317,
+  "all_city_top1": " located",
+  "city_lt20": 0.0345,
+  "city_lt20_top1": " located"
+ },
+ {
+  "city": "St. Louis",
+  "p": 0.9222,
+  "state_ablated": 0.593,
+  "n_city_feats": 338,
+  "all_city": 0.0028,
+  "all_city_top1": " An",
+  "city_lt20": 0.0029,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "New Orleans",
+  "p": 0.9378,
+  "state_ablated": 0.011,
+  "n_city_feats": 345,
+  "all_city": 0.0002,
+  "all_city_top1": " Washington",
+  "city_lt20": 0.0002,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Memphis",
+  "p": 0.9579,
+  "state_ablated": 0.0793,
+  "n_city_feats": 346,
+  "all_city": 0.001,
+  "all_city_top1": " in",
+  "city_lt20": 0.0011,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Knoxville",
+  "p": 0.4501,
+  "state_ablated": 0.0039,
+  "n_city_feats": 354,
+  "all_city": 0.0001,
+  "all_city_top1": " the",
+  "city_lt20": 0.0001,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Louisville",
+  "p": 0.9989,
+  "state_ablated": 0.0007,
+  "n_city_feats": 220,
+  "all_city": 0.001,
+  "all_city_top1": " in",
+  "city_lt20": 0.001,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Milwaukee",
+  "p": 0.994,
+  "state_ablated": 0.1798,
+  "n_city_feats": 257,
+  "all_city": 0.0051,
+  "all_city_top1": " Austin",
+  "city_lt20": 0.0049,
+  "city_lt20_top1": " Austin"
+ },
+ {
+  "city": "Las Vegas",
+  "p": 0.8002,
+  "state_ablated": 0.8108,
+  "n_city_feats": 292,
+  "all_city": 0.0015,
+  "all_city_top1": " Austin",
+  "city_lt20": 0.0015,
+  "city_lt20_top1": " Austin"
+ },
+ {
+  "city": "Tucson",
+  "p": 0.9951,
+  "state_ablated": 0.0127,
+  "n_city_feats": 288,
+  "all_city": 0.0029,
+  "all_city_top1": " in",
+  "city_lt20": 0.0038,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Flagstaff",
+  "p": 0.9816,
+  "state_ablated": 0.0053,
+  "n_city_feats": 517,
+  "all_city": 0.0059,
+  "all_city_top1": " Salem",
+  "city_lt20": 0.0075,
+  "city_lt20_top1": " Salem"
+ },
+ {
+  "city": "Boulder",
+  "p": 0.9998,
+  "state_ablated": 0.1002,
+  "n_city_feats": 389,
+  "all_city": 0.0567,
+  "all_city_top1": " in",
+  "city_lt20": 0.0609,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Baltimore",
+  "p": 0.9932,
+  "state_ablated": 0.932,
+  "n_city_feats": 244,
+  "all_city": 0.0565,
+  "all_city_top1": " Washington",
+  "city_lt20": 0.0429,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Huntsville",
+  "p": 0.9218,
+  "state_ablated": 0.0251,
+  "n_city_feats": 503,
+  "all_city": 0.3616,
+  "all_city_top1": " Montgomery",
+  "city_lt20": 0.2976,
+  "city_lt20_top1": " Montgomery"
+ },
+ {
+  "city": "Mobile",
+  "p": 0.9999,
+  "state_ablated": 0.9998,
+  "n_city_feats": 268,
+  "all_city": 0.002,
+  "all_city_top1": " in",
+  "city_lt20": 0.0027,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Omaha",
+  "p": 0.9725,
+  "state_ablated": 0.8974,
+  "n_city_feats": 341,
+  "all_city": 0.0033,
+  "all_city_top1": " Salt",
+  "city_lt20": 0.0045,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Wichita",
+  "p": 0.9989,
+  "state_ablated": 0.0651,
+  "n_city_feats": 343,
+  "all_city": 0.0001,
+  "all_city_top1": " ",
+  "city_lt20": 0.0001,
+  "city_lt20_top1": " "
+ },
+ {
+  "city": "Cedar Rapids",
+  "p": 0.9361,
+  "state_ablated": 0.1165,
+  "n_city_feats": 396,
+  "all_city": 0.0077,
+  "all_city_top1": " in",
+  "city_lt20": 0.0059,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Newark",
+  "p": 0.9961,
+  "state_ablated": 0.001,
+  "n_city_feats": 386,
+  "all_city": 0.0001,
+  "all_city_top1": " the",
+  "city_lt20": 0.0001,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Worcester",
+  "p": 0.9354,
+  "state_ablated": 0.0011,
+  "n_city_feats": 359,
+  "all_city": 0.0129,
+  "all_city_top1": " Atlanta",
+  "city_lt20": 0.0154,
+  "city_lt20_top1": " Sacramento"
+ },
+ {
+  "city": "New Haven",
+  "p": 0.9737,
+  "state_ablated": 0.2155,
+  "n_city_feats": 459,
+  "all_city": 0.0007,
+  "all_city_top1": " not",
+  "city_lt20": 0.0008,
+  "city_lt20_top1": " not"
+ },
+ {
+  "city": "Bridgeport",
+  "p": 0.9949,
+  "state_ablated": 0.9899,
+  "n_city_feats": 455,
+  "all_city": 0.0001,
+  "all_city_top1": " in",
+  "city_lt20": 0.0002,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Charlotte",
+  "p": 0.994,
+  "state_ablated": 0.9937,
+  "n_city_feats": 377,
+  "all_city": 0.0013,
+  "all_city_top1": " in",
+  "city_lt20": 0.0011,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Provo",
+  "p": 0.9936,
+  "state_ablated": 0.8785,
+  "n_city_feats": 613,
+  "all_city": 0.0,
+  "all_city_top1": " Bras",
+  "city_lt20": 0.0001,
+  "city_lt20_top1": " located"
+ },
+ {
+  "city": "Billings",
+  "p": 0.9124,
+  "state_ablated": 0.0106,
+  "n_city_feats": 468,
+  "all_city": 0.0005,
+  "all_city_top1": " in",
+  "city_lt20": 0.0003,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Anchorage",
+  "p": 0.9988,
+  "state_ablated": 0.8536,
+  "n_city_feats": 294,
+  "all_city": 0.007,
+  "all_city_top1": " Washington",
+  "city_lt20": 0.0066,
+  "city_lt20_top1": " Washington"
+ },
+ {
+  "city": "Hilo",
+  "p": 0.868,
+  "state_ablated": 0.0224,
+  "n_city_feats": 564,
+  "all_city": 0.0014,
+  "all_city_top1": " the",
+  "city_lt20": 0.0018,
+  "city_lt20_top1": " the"
+ },
+ {
+  "city": "Albuquerque",
+  "p": 0.8503,
+  "state_ablated": 0.8368,
+  "n_city_feats": 302,
+  "all_city": 0.0002,
+  "all_city_top1": " ",
+  "city_lt20": 0.0005,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Fayetteville",
+  "p": 0.4964,
+  "state_ablated": 0.1967,
+  "n_city_feats": 424,
+  "all_city": 0.0004,
+  "all_city_top1": " not",
+  "city_lt20": 0.0005,
+  "city_lt20_top1": " not"
+ },
+ {
+  "city": "Biloxi",
+  "p": 0.9591,
+  "state_ablated": 0.8734,
+  "n_city_feats": 154,
+  "all_city": 0.2405,
+  "all_city_top1": " Montgomery",
+  "city_lt20": 0.2386,
+  "city_lt20_top1": " Montgomery"
+ },
+ {
+  "city": "Burlington",
+  "p": 0.9999,
+  "state_ablated": 0.9998,
+  "n_city_feats": 407,
+  "all_city": 0.0001,
+  "all_city_top1": " D",
+  "city_lt20": 0.0001,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Bangor",
+  "p": 0.9485,
+  "state_ablated": 0.0047,
+  "n_city_feats": 521,
+  "all_city": 0.001,
+  "all_city_top1": " in",
+  "city_lt20": 0.0011,
+  "city_lt20_top1": " in"
+ },
+ {
+  "city": "Sioux Falls",
+  "p": 0.6295,
+  "state_ablated": 0.5986,
+  "n_city_feats": 380,
+  "all_city": 0.0001,
+  "all_city_top1": " Oklahoma",
+  "city_lt20": 0.0005,
+  "city_lt20_top1": " Oklahoma"
+ },
+ {
+  "city": "Casper",
+  "p": 0.9974,
+  "state_ablated": 0.9946,
+  "n_city_feats": 498,
+  "all_city": 0.0002,
+  "all_city_top1": " located",
+  "city_lt20": 0.0004,
+  "city_lt20_top1": " located"
+ }
+]

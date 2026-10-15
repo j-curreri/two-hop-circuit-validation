@@ -1,0 +1,2 @@
+torch>=2.6
+circuit-tracer @ git+https://github.com/decoderesearch/circuit-tracer@255d989

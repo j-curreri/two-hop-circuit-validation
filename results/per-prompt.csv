@@ -1,0 +1,58 @@
+city,state,capital,model_correct,p_capital,n_state_features,p_after_state_ablation,top1_after_ablation,p_after_random_ablation,swap_donor_state,p_donor_capital_x1,swap_success_x1,p_donor_capital_x2,swap_success_x2
+Dallas,Texas,Austin,True,0.935,13,0.0033,Atlanta,0.8786,California,0.851,True,0.5302,True
+Houston,Texas,Austin,True,0.9914,11,0.0033,Atlanta,0.9906,California,0.941,True,0.805,True
+San Antonio,Texas,Austin,True,0.9607,11,0.0018,named,0.961,Florida,0.1275,False,0.8898,True
+Los Angeles,California,Sacramento,True,0.9955,18,0.2084,named,0.9893,Florida,0.6284,True,0.9983,True
+San Francisco,California,Sacramento,True,0.9904,16,0.7235,Sacramento,0.9944,Florida,0.9976,True,0.9951,True
+San Diego,California,Sacramento,False,0.0523,,,,,,,,,
+Miami,Florida,Tallahassee,True,0.9618,10,0.0002,Atlanta,0.9045,Illinois,0.5283,True,0.8112,True
+Orlando,Florida,Tallahassee,False,0.1721,,,,,,,,,
+Tampa,Florida,Tallahassee,True,0.9307,12,0.0001,in,0.9426,Pennsylvania,0.9862,True,0.9991,True
+Buffalo,New York,Albany,True,0.9393,0,,,,,,,,
+Rochester,New York,Albany,False,0.0875,,,,,,,,,
+Chicago,Illinois,Springfield,True,0.8428,7,0.0018,Washington,0.8085,Pennsylvania,0.9897,True,0.9947,True
+Philadelphia,Pennsylvania,Harrisburg,True,0.9212,8,0.0002,Washington,0.9064,Washington,0.0,False,0.0,False
+Pittsburgh,Pennsylvania,Harrisburg,True,0.909,8,0.1245,not,0.8838,Washington,0.0,False,0.0,False
+Seattle,Washington,Olympia,True,0.9973,6,0.9954,Olympia,0.9945,Oregon,0.0001,False,0.0327,False
+Spokane,Washington,Olympia,True,0.6534,7,0.3086,Spokane,0.6912,Michigan,0.1208,False,0.9792,True
+Eugene,Oregon,Salem,True,0.9732,6,0.8563,Salem,0.9713,Michigan,0.0015,False,0.0651,False
+Detroit,Michigan,Lansing,True,0.9699,11,0.0021,not,0.9489,Ohio,0.9856,True,0.9899,True
+Cleveland,Ohio,Columbus,True,0.975,5,0.9885,Columbus,0.9625,Georgia,0.9921,True,0.9983,True
+Cincinnati,Ohio,Columbus,True,0.8996,6,0.2048,Frank,0.9014,Missouri,0.0767,False,0.3473,True
+Savannah,Georgia,Atlanta,True,0.9888,7,0.2438,Columbia,0.9877,Missouri,0.0007,False,0.0194,False
+St. Louis,Missouri,Jefferson City,True,0.9222,4,0.593,Jefferson,0.9474,Louisiana,0.0012,False,0.2433,False
+New Orleans,Louisiana,Baton Rouge,True,0.9378,11,0.011,Atlanta,0.5137,Tennessee,0.8555,True,0.977,True
+Memphis,Tennessee,Nashville,True,0.9579,5,0.0793,St,0.9706,Kentucky,0.028,False,0.7061,True
+Knoxville,Tennessee,Nashville,True,0.4501,7,0.0039,Knoxville,0.6052,Wisconsin,0.1264,False,0.9997,True
+Louisville,Kentucky,Frankfort,True,0.9989,4,0.0007,Jefferson,0.9977,Wisconsin,0.0002,False,0.7954,True
+Milwaukee,Wisconsin,Madison,True,0.994,8,0.1798,named,0.9969,Nevada,0.0,False,0.0,False
+Las Vegas,Nevada,Carson City,True,0.8002,3,0.8108,Carson,0.8158,Arizona,0.7199,True,0.9912,True
+Reno,Nevada,Carson City,False,0.1318,,,,,,,,,
+Tucson,Arizona,Phoenix,True,0.9951,5,0.0127,not,0.9946,Colorado,0.9995,True,0.9944,True
+Flagstaff,Arizona,Phoenix,True,0.9816,7,0.0053,Salem,0.8621,Maryland,0.0,False,0.0002,False
+Boulder,Colorado,Denver,True,0.9998,11,0.1002,in,0.9998,Maryland,0.0,False,0.0025,False
+Baltimore,Maryland,Annapolis,True,0.9932,7,0.932,An,0.9897,Alabama,0.2717,False,0.9761,True
+Huntsville,Alabama,Montgomery,True,0.9218,7,0.0251,Hunts,0.9222,Nebraska,0.0,False,0.0,False
+Mobile,Alabama,Montgomery,True,0.9999,8,0.9998,Montgomery,0.9995,Kansas,0.0,False,0.0031,False
+Omaha,Nebraska,Lincoln,True,0.9725,2,0.8974,Lincoln,0.9684,Kansas,0.0095,False,0.6262,True
+Wichita,Kansas,Topeka,True,0.9989,11,0.0651,,0.9979,Iowa,0.0306,False,0.8145,True
+Cedar Rapids,Iowa,Des Moines,True,0.9361,7,0.1165,Washington,0.9129,New Jersey,0.0267,False,0.9816,True
+Newark,New Jersey,Trenton,True,0.9961,4,0.001,Columbus,0.9967,Massachusetts,0.9499,True,0.999,True
+Worcester,Massachusetts,Boston,True,0.9354,6,0.0011,Montgomery,0.942,Connecticut,0.0261,False,0.9765,True
+New Haven,Connecticut,Hartford,True,0.9737,6,0.2155,Hartford,0.9373,North Carolina,0.0,False,0.0,False
+Bridgeport,Connecticut,Hartford,True,0.9949,7,0.9899,Hartford,0.996,Utah,0.0076,False,0.9951,True
+Norfolk,Virginia,Richmond,False,0.3204,,,,,,,,,
+Charlotte,North Carolina,Raleigh,True,0.994,3,0.9937,Raleigh,0.9928,Utah,0.0,False,0.995,True
+Provo,Utah,Salt Lake City,True,0.9936,9,0.8785,Salt,0.9943,Montana,0.0,False,0.0002,False
+Billings,Montana,Helena,True,0.9124,5,0.0106,Oklahoma,0.8989,Alaska,0.9837,True,0.9852,True
+Anchorage,Alaska,Juneau,True,0.9988,7,0.8536,June,0.996,Hawaii,0.8673,True,0.9273,True
+Hilo,Hawaii,Honolulu,True,0.868,14,0.0224,Miami,0.8551,New Mexico,0.0,False,0.0001,False
+Albuquerque,New Mexico,Santa Fe,True,0.8503,1,0.8368,Santa,0.8576,Arkansas,0.0,False,0.0002,False
+Fayetteville,Arkansas,Little Rock,True,0.4964,4,0.1967,Fayette,0.5218,Mississippi,0.0,False,0.0,False
+Biloxi,Mississippi,Jackson,True,0.9591,3,0.8734,Jackson,0.9578,Vermont,0.0,False,0.0,False
+Wilmington,Delaware,Dover,False,0.0757,,,,,,,,,
+Burlington,Vermont,Montpelier,True,0.9999,3,0.9998,Mont,0.9999,Maine,0.0002,False,0.181,False
+Manchester,New Hampshire,Concord,False,0.0,,,,,,,,,
+Bangor,Maine,Augusta,True,0.9485,7,0.0047,Atlanta,0.8112,South Dakota,0.0,False,0.0,False
+Sioux Falls,South Dakota,Pierre,True,0.6295,1,0.5986,Pierre,0.6629,Wyoming,0.0,False,0.0,False
+Casper,Wyoming,Cheyenne,True,0.9974,3,0.9946,Che,0.9962,Texas,0.0015,False,0.0002,False
